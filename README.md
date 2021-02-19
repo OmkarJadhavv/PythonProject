@@ -1,4 +1,3 @@
-# PythonProject
 from random import randint
 
 play=['R', 'P', 'S']
